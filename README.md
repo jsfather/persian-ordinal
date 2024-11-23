@@ -23,7 +23,7 @@ npm install @jsfather/persian-ordinal
 ## Usage
 
 ```javascript
-const numberToPersianOrdinal = require('persian-ordinal-numbers');
+const numberToPersianOrdinal = require('@jsfather/persian-ordinal');
 
 console.log(numberToPersianOrdinal(1));    // اول
 console.log(numberToPersianOrdinal(13))    // سیزدهم
