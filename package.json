@@ -1,7 +1,7 @@
 {
   "name": "@jsfather/persian-ordinal",
   "version": "1.1.0",
-  "description": "Convert numbers from 0 to 999 into Persian ordinal words with ease.",
+  "description": "Convert numbers from 0 to 999,999,999,999 (999 billion) into Persian ordinal words with ease.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "module": "dist/index.esm.js",
